@@ -1,6 +1,6 @@
 # Site settings
 title: Blog Xtapo
-description: Lokmont is a responsive simple theme for Jekyll.
+description: Blog chia sẽ về tài chính cá nhân
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lokmont.xtapo.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
