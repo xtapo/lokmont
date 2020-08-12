@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tài xế Taxi đem về doanh thu gấp 3 lần Grab
-date:   2020-09-08 07:01:35 +0300
+date:   2020-08-08 07:01:35 +0300
 img: bai-hoc-kinh-doanh-1.jpg
 tags: [Bài Học Kinh Doanh]
 ---
