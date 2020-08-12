@@ -3,7 +3,7 @@ layout: post
 title:  Tài xế Taxi đem về doanh thu gấp 3 lần Grab
 date:   2020-08-08 07:01:35 +0300
 img: bai-hoc-kinh-doanh-1.jpg
-tags: [Bài Học Kinh Doanh]
+tags: [BAIHOCKINHDOANH]
 ---
 **Làm thế nào anh chàng lái Taxi sân bay có lượng khách gấp đôi, thậm chí gấp 3 lần những người có tài khoản Grab và cả những người chào mời ở sân bay.**  
 
